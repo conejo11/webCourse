@@ -1,0 +1,25 @@
+h1{
+  color: #FF8000;
+
+  /*border-color: purple;
+  border-width: 5px;
+  border-style: solid;*/
+  border: 2px solid purple;
+}
+
+li{
+  color: rgb(255,0,0);
+}
+
+h4{
+  color: purple;
+  background: rgb(220,100,50)
+}
+
+body{
+  background: pink;
+
+  /*background: url(https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fmm178.k12.sd.us%2FSiteAssets%2FSitePages%2FCabinetmaking%25201%2FWood%2520Grain%2520Right%2520to%2520Left%2520Dark.jpg&f=1);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
